@@ -1,0 +1,10 @@
+/venv
+/.idea
+*/media/
+*/__pycache__
+*.pyc
+*.idea/
+*.pytest_cache
+*.sqlite3
+.env
+/static
